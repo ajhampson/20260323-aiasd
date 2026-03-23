@@ -1,0 +1,12 @@
+bin/
+obj/
+
+# Visual Studio user files
+.vs/
+*.user
+*.suo
+
+# Rider / ReSharper
+.idea/
+_ReSharper*/
+*.DotSettings.user
