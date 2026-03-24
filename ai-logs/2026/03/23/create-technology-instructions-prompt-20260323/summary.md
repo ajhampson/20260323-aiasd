@@ -42,10 +42,10 @@ Create a reusable promptfile that can inspect this repository and create or upda
 
 ## Artifacts Produced
 
-| Artifact | Type | Purpose |
-| --- | --- | --- |
-| `.github/prompts/meta/create-technology-instructions.instructions.prompt.md` | promptfile | Generate technology-specific instruction files |
-| `README.md` | documentation | Link the promptfile and ai-log artifacts |
+| Artifact                                                                     | Type          | Purpose                                        |
+| ---------------------------------------------------------------------------- | ------------- | ---------------------------------------------- |
+| `.github/prompts/meta/create-technology-instructions.instructions.prompt.md` | promptfile    | Generate technology-specific instruction files |
+| `README.md`                                                                  | documentation | Link the promptfile and ai-log artifacts       |
 
 ## Lessons Learned
 
