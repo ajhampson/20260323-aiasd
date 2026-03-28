@@ -10,3 +10,8 @@ obj/
 .idea/
 _ReSharper*/
 *.DotSettings.user
+node_modules
+.vite/
+test-results/
+dist/
+tsconfig.tsbuildinfo
