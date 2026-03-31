@@ -37,8 +37,4 @@ source: github-copilot-chat
         </PackageReference>
     </ItemGroup>
 
-    <ItemGroup>
-        <ProjectReference Include="..\..\Calculator.csproj" />
-    </ItemGroup>
-
 </Project>
