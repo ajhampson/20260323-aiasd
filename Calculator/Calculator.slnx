@@ -1,3 +1,9 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="../../20260330-aiasd-ge/.github/instructions/ai-assisted-output.instructions.md" />
+    <File Path="../../20260330-aiasd-ge/.github/instructions/instruction-files.instructions.md" />
+    <File Path="../../20260330-aiasd-ge/.github/instructions/instruction-prompt-files.instructions.md" />
+    <File Path="../../20260330-aiasd-ge/.github/instructions/prompt-file.instructions.md" />
+  </Folder>
   <Project Path="Calculator.csproj" />
 </Solution>
